@@ -40,12 +40,12 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "Nama untuk Bot Musik Anda. Tolong jangan gunakan karakter ascii",
-        "value": "",
+        "value": "missharley",
         "required": true
       },
       "OWNER_ID": {
         "description": "ID pengguna dari pengguna yang ingin Anda tambahkan sebagai PEMILIK. Beberapa nilai harus dipisahkan dengan spasi.",
-        "value": "",
+        "value": "994851680",
         "required": true
       },
       "STRING_SESSION": {
@@ -70,7 +70,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/grey423/CilikMusic",
+        "value": "https://github.com/benkorsan/CilikMusic",
         "required": true
       },
       "UPSTREAM_BRANCH": {
