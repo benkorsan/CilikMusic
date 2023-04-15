@@ -140,7 +140,7 @@ cplay_5 : "Yalnızca Kanallar desteklenir."
 cplay_6 : "Sen şey olmalısın🙈. **Sahip** kanalın[{0}] bu gruba bağlamak için.\n**Kanalın Sahibi:** @{1}\n\nAlternatif olarak, grubunuzu bu kanala bağlayabilir ve ardından '/channelplay bağlantılı olarak connnecting deneyebilirsiniz`"
 
 #Play
-play_1 : "⚡"
+play_1 : "👣"
 play_2 : "**🕊️🏴‍☠️Kanal Oynatma Modu**\n♻️ Sorgu İşleniyor... Lütfen bekleyin❗\n\n**Bağlı Kanal:** {0}"
 play_3 : "Sorgu İşlenemedi❗"
 play_4 : "👮‍♀️ **Yalnızca Yöneticiler **\nBu grupta yalnızca Yöneticiler ve Kimlik Doğrulaması Kullanıcıları müzik çalabilir.\n\n/n/playmode üzerinden mod değiştir ve zaten yöneticiyseniz, /admincache aracılığıyla admincache'i yeniden yükleyin"
@@ -229,7 +229,7 @@ queue_4 : "🎶ⲕᵤ𝑦ᵣᵤğₐ ₑⲕԼₑ𝑛𝑑ᵢ **✅#{0}\n\n🔮�
 queue_5 : " Kuyruk içinde yalnızca bir parça, Lütfen kontrol listesine biraz daha ekleyin "
 
 # All Streaming Lines
-stream_1 : "🔮🎶̲𝕆𝕪𝕟𝕒𝕥ı𝕝ı𝕪𝕠𝕣✅🌘🌗🌖🌕🌔🌓🌒\n\n🕊️**ҽƙlҽყҽɳ :** {0}👣\n🔎**𝖇𝖎𝖑𝖌𝖎: **[detay]({1})"
+stream_1 : "🌘🌗🌖🌕🌔🌓🌒\n🔊🎶̲𝕆𝕪𝕟𝕒𝕥ı𝕝ı𝕪𝕠𝕣🎧\n🕊️**ҽƙlҽყҽɳ :** {0}👣\n🔎**𝖇𝖎𝖑𝖌𝖎: **[detay]({1})"
 stream_2 : "📡 **URL üzerinden Akışa Başladı ** 🔮\n\n🕊️👣**By:** {0}"
 stream_3 : " 💎**Oynatılıyor** 🔮\n\n**🎶Parça:** {0}\n⏱️**süresi**: {1}\n🕊️** By:** 👣{2}"
 stream_4 : "📡 **Başlatıldı** 🔮\n\n**🍂başlık:** [{0}]({1})\n⏱️**Süre**: {2}\n🕊️👣** By:** {3}"
