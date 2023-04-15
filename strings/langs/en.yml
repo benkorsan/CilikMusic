@@ -150,7 +150,7 @@ play_7 : "Pardon👮‍♀️!🏃‍♂️ Bot, CPU aşırı yükleme sorunlar�
 play_8 : "Geçerli Bir Video Dosyası Uzantısı Değil!\n\n**Desteklenen Biçimler:** {0}"
 play_9 : "Video Dosyası Boyutu 1 GiB'dan Az Olmalıdır "
 play_10 : "**Youtube Çalma Listesi Özelliği**\n\nTüm Youtube Çalma Listesini oynatmak istediğiniz Modu seçin"
-play_11 : "🔮𝖇𝖆ş𝖑ı𝖐: **🌒🌓🌔🌕🌖🌗🌘{0}\n\n ⏱️𝕤ü𝕣𝕖:** {1} dk"
+play_11 : "🌒🌓🌔🌕🌖🌗🌘\n🔮𝖇𝖆ş𝖑ı𝖐: **{0}\n\n ⏱️𝕤ü𝕣𝕖:** {1} dk"
 play_12 : "**Spotify Çalma Listeleri**\n\ 🕊️By:- {0}"
 play_13 : "**Apple Çalma Listeleri**\n\n🕊️ By:- {0}"
 play_14 : "**URL doğrulanamıyor⛔.**\nBu URL'nin aşağıdaki platformlardan herhangi birine ait olup olmadığını merak ediyor: Youtube, AppleMusic, Spotify, Resso ve Soundcloud.\n\n M3u8 veya Uzak Bağlantılar için /stream kullanabilirsiniz."
